@@ -1,6 +1,5 @@
 node_modules/
 .DS_Store
-dist/
 lerna-debug.log
 yarn-error.log
 coverage/
